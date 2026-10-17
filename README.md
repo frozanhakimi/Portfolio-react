@@ -4,10 +4,6 @@
 
 A modern, highly responsive personal portfolio website built with **React** and **Vite**. This portfolio showcases my skills, completed projects, and professional certificates. It features a beautiful, premium UI with smooth animations and a seamless Light/Dark mode experience.
 
-🌐 **[View My Live Portfolio Here](https://YOUR-NETLIFY-LINK-HERE.netlify.app/)** *(Update this link once you deploy!)*
-
----
-
 ## ✨ Features
 - **Modern & Premium Design:** Clean layouts, bento-box stats, and floating elements.
 - **Fully Responsive:** Looks perfect on laptops, tablets, and mobile devices.
