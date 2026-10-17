@@ -1,16 +1,60 @@
-# React + Vite
+# 👋 Hi, I'm Frozan Hakimi!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Frontend Developer & Tech Enthusiast
 
-Currently, two official plugins are available:
+A modern, highly responsive personal portfolio website built with **React** and **Vite**. This portfolio showcases my skills, completed projects, and professional certificates. It features a beautiful, premium UI with smooth animations and a seamless Light/Dark mode experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **[View My Live Portfolio Here](https://YOUR-NETLIFY-LINK-HERE.netlify.app/)** *(Update this link once you deploy!)*
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- **Modern & Premium Design:** Clean layouts, bento-box stats, and floating elements.
+- **Fully Responsive:** Looks perfect on laptops, tablets, and mobile devices.
+- **Light & Dark Mode:** A seamless theme toggle that remembers your preference.
+- **Scroll Animations:** Smooth, staggered animations using Framer Motion.
+- **Interactive Certificate Modal:** Click certificates to view them in an elegant lightbox.
+- **Project Showcase:** Dedicated cards for my live projects with links to the source code.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Framework:** React.js
+- **Build Tool:** Vite
+- **Styling:** Vanilla CSS3 (Custom Variables, Flexbox, CSS Grid)
+- **Animations:** Framer Motion
+- **Icons:** React Icons
+
+---
+
+## 🚀 Featured Projects
+
+### 1. SkyWings (Flight Booking App)
+A modern flight booking web application built with React, featuring search, filtering, and a clean responsive UI.
+- [Live Demo](https://skywingsapp.netlify.app/)
+- [Source Code](https://github.com/frozanhakimi/SkyWings)
+
+### 2. Calculator
+A responsive calculator featuring a clean UI and keyboard support.
+- [Source Code](https://github.com/frozanhakimi/Calculator.git)
+
+### 3. Food Order
+A simple food ordering website designed with a clean menu layout and smooth interactions.
+- [Source Code](https://github.com/frozanhakimi/Food-Order.git)
+
+---
+
+## 🏅 Certificates
+- **Web Development Internship** - World Food Programme (WFP)
+- **Responsive Web Design** - Coursera
+- **Hackathon Project** - World Food Programme (WFP)
+
+---
+
+## ⚙️ How to Run Locally
+
+If you want to clone this project and run it on your own machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/frozanhakimi/Portfolio-react.git
