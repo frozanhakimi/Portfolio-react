@@ -16,7 +16,7 @@ export default function About() {
         {/* Left side: Image */}
         <div className="about-image-container">
           <img
-            src="/images/profile.jpg"
+            src="/images/profile.png"
             alt="Frozan Hakimi"
             className="about-photo"
           />

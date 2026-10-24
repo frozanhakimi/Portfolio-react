@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Stats() {
   const stats = [
-    { number: "4+", label: "Projects Completed" },
+    { number: "6+", label: "Projects Completed" },
     { number: "3", label: "Certificates Earned" },
     { number: "100%", label: "Passion for Code" },
     { number: "∞", label: "Eagerness to Learn" },

@@ -42,7 +42,7 @@ export default function Hero() {
         >
           <div className="avatar-ring">
             <img
-              src="/images/profile.jpg"
+              src="/images/profile.png"
               alt="Frozan Hakimi"
               className="avatar-photo"
             />
